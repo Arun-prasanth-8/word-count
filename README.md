@@ -1,0 +1,2 @@
+This Python project offers a straightforward tool for counting words and lines in a text file. It provides a clear count of total words and lines, along with optional frequency analysis of individual words. To get started, clone the repository, install any required dependencies, and run the script with your text file as input. The results, including word and line counts and word frequencies, will be displayed in the console. This tool is ideal for quick text analysis and can be easily extended for more advanced features.
+
